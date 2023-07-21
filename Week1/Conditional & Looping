@@ -1,0 +1,9 @@
+Write a python script to enter any number and check its prime or not.
+Write a python script to enter any number and print the sum of its digit.
+Write a python script to enter any number, if it is integer number, then check its palindrom or not. Print appropriate message if it is not palindrom.
+Write a python script to enter any number, if it is integer number, then check its armstrong or not. Print appropriate message if it is not palindrom.
+Write a python script to enter any string and count vowel.
+Write a python script to enter any string and print only part of string. Take input of start character and end character from user.
+Write a python script to enter any string, replace vowel with its position number.
+For Example: input: Amit
+             output:0m2t

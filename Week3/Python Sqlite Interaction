@@ -1,0 +1,27 @@
+Write a python script to perform CRUD operation on following table of "ESM.db" database.
+
+Employee ( eid, ename, dept, basic, branch). eid must be primary key.
+
+Department : Account, Inventory, IT, HR.
+
+Peform Following Operation.
+
+1. Create table
+
+2. Insert 5 Records directly, 5 records using tuple and 5 records using taking input from user
+
+3. Update records who are from "Surat" branch with increment in salary 10%.
+
+4. Print All records.
+
+5. Print records where dept is "HR" and "IT".
+
+6. Print records in sorting order of department.
+
+7. Print records where basic is >6000.
+
+8. Print records whrere employee name second character is "r".
+
+9. Grouping record of employee who are from "Account" and "Inventory".
+
+10. Print all records based on branch name in descending order.
